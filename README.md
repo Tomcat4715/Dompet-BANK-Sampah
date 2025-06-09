@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Bank Sampah ARAS - Dompet Digital</title>
     <style>
-        /* === KODE CSS LENGKAP - TIDAK ADA PERUBAHAN, SUDAH SEMPURNA === */
+        /* === KODE CSS LENGKAP - SUDAH DISATUKAN DI SINI === */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%); color: #333; min-height: 100vh; overflow-x: hidden; }
         .app-container { max-width: 414px; margin: 0 auto; background: #f8f9fa; min-height: 100vh; box-shadow: 0 0 20px rgba(0,0,0,0.1); position: relative; }
@@ -201,7 +201,7 @@
 
     <script>
         // =========================================================
-        // JAVASCRIPT LENGKAP - SEMUA FUNGSI SUDAH DISESUAIKAN
+        // JAVASCRIPT LENGKAP - SUDAH DISATUKAN DI SINI
         // =========================================================
 
         const modal = document.getElementById('modal');
